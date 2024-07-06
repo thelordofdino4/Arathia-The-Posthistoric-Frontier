@@ -1,0 +1,73 @@
+Arathia: The Posthistoric Frontier - Platform Documentation
+Title
+Arathia: The Posthistoric Frontier
+
+Platforms
+Planned Release: Windows, Linux
+
+Platform Overview
+Windows
+Operating System: Windows 10 and above
+Processor: Intel Core i5 or equivalent
+Memory: 8 GB RAM
+Graphics: NVIDIA GTX 970 or equivalent
+Storage: 50 GB available space
+DirectX: Version 12
+Additional Requirements: Broadband Internet connection for updates and multiplayer features
+Linux
+Operating System: Ubuntu 20.04 or equivalent
+Processor: Intel Core i5 or equivalent
+Memory: 8 GB RAM
+Graphics: NVIDIA GTX 970 or equivalent
+Storage: 50 GB available space
+Additional Requirements: Broadband Internet connection for updates and multiplayer features
+Notes: Compatibility with various Linux distributions may vary; it is recommended to use a well-supported and updated distribution for optimal performance.
+Steam Deck
+Operating System: SteamOS 3.0 (based on Linux)
+Processor: Custom AMD APU (Zen 2 + RDNA 2)
+Memory: 16 GB RAM
+Graphics: AMD RDNA 2 (integrated)
+Storage: 64 GB eMMC (base model), 256 GB NVMe SSD, or 512 GB NVMe SSD (expandable via microSD card)
+Display: 1280x800 resolution, 60Hz refresh rate
+Additional Requirements: Broadband Internet connection for updates and multiplayer features
+Future Platform Considerations
+While the current planned release of Arathia: The Posthistoric Frontier is for Windows and Linux, future expansions could include other platforms to reach a wider audience. Below are potential platforms for future releases:
+
+macOS
+Operating System: macOS 11 Big Sur or later
+Processor: Apple M1 chip or Intel Core i5 equivalent
+Memory: 8 GB RAM
+Graphics: Apple M1 integrated GPU or dedicated graphics card equivalent
+Storage: 50 GB available space
+Additional Requirements: Broadband Internet connection for updates and multiplayer features
+Console Platforms
+PlayStation 5: Support for enhanced graphics and performance features
+Xbox Series X/S: Support for enhanced graphics and performance features
+Cloud Gaming Services
+NVIDIA GeForce Now
+Microsoft xCloud
+These platforms would enable players to experience Arathia: The Posthistoric Frontier without the need for high-end hardware, leveraging the power of cloud computing.
+
+Platform Optimization and Support
+Arathia: The Posthistoric Frontier is designed to provide an optimal gaming experience on Windows, Linux, and the Steam Deck. The following strategies ensure smooth performance and compatibility:
+
+Performance Optimization
+
+Fine-tuning graphics settings to offer a balance between visual fidelity and performance.
+Providing customizable graphics options to allow players to adjust settings based on their hardware capabilities.
+Implementing efficient resource management to reduce load times and improve overall gameplay fluidity.
+Compatibility Testing
+
+Regular testing on various hardware configurations to identify and resolve compatibility issues.
+Ensuring compatibility with major Linux distributions and their respective graphics drivers.
+Specific optimization and testing for the Steam Deck to ensure a seamless experience.
+Support and Updates
+
+Offering regular updates to address bugs, improve performance, and add new content.
+Providing comprehensive technical support to assist players with any issues they may encounter.
+Community Engagement
+
+Actively engaging with the player community to gather feedback and implement improvements based on player suggestions.
+Hosting forums and social media channels to foster a supportive and interactive community.
+Conclusion
+Arathia: The Posthistoric Frontier is being developed for Windows, Linux, and optimized for the Steam Deck, ensuring an immersive gaming experience on these platforms. Future expansions to additional platforms, including macOS, console platforms, and cloud gaming services, will further broaden the game's reach and accessibility. The commitment to performance optimization, compatibility testing, regular updates, and community engagement ensures that players will enjoy a high-quality gaming experience on their preferred platform.
