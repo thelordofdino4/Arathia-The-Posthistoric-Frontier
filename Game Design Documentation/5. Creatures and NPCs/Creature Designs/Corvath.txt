@@ -1,0 +1,32 @@
+Defining Characteristics of the Corvath
+The Corvath are descendants of Earth crows, having evolved unique adaptations and a complex society in Arathia. Standing at an average height of 5 feet, they are larger and more imposing than the Quarriel. Anatomically, they have converged on a similar body plan to the Quarriel, with winged arms ending in a thumb and single-digit hand. The Corvath are notorious for their pathological compulsion to steal, often hoarding valuable items and technology in their nests. This behavior creates significant conflict with other races, particularly the Quarriel.
+
+Detailed Description of the Corvath
+Appearance: The Corvath have a striking resemblance to large crows, with sleek black feathers, sharp beaks, and keen eyes. Their winged arms end in a thumb and a single-digit hand, allowing them to grasp and manipulate objects.
+
+Size: Standing at an average height of 5 feet, the Corvath are more imposing than the Quarriel, who barely reach 2 feet in height.
+Feathers: Their feathers are glossy and black, providing excellent camouflage in forested regions.
+Hands: The thumb and single-digit hand on their winged arms are dexterous, enabling them to expertly handle stolen items and tools.
+Behavior and Culture:
+
+Thieves: The Corvath have a pathological compulsion to steal, collecting valuable items and technology from unwary hunters and other species.
+Hoarders: Their nests are often lined with the spoils of their thefts, creating a trove of lost and valuable items.
+Unwilling to Change: The Corvath are resistant to returning stolen items, creating ongoing conflict with other races.
+Habitat:
+
+Forest Regions: The Corvath primarily inhabit dense forests, where their black feathers provide effective camouflage.
+Nests: Their nests are often high up in the trees, filled with stolen items and technology.
+Interaction with the Player:
+
+Diplomatic Goals: The protagonist's goal is to diplomatically convince the Corvath to return stolen items, forging a friendship through trade and negotiation.
+Non-Recruitable: While players cannot recruit Corvaths, they can encounter them in forest regions.
+Potential Allies: The Corvath may assist the player by distracting monsters, buffing the player, and providing damage using the stolen items they possess rather than conventional weapons.
+Support Role:
+
+Distraction: The Corvath can act as a distraction, drawing the monster's attention away from the player and creating opportunities for strategic attacks.
+Buffing: Using stolen items, the Corvath can provide buffs to the player, enhancing their abilities during combat.
+Examples: Temporary increases in damage output, improved evasion, or enhanced healing effects.
+Item-Based Damage: The Corvath utilize stolen items to deal damage to monsters, using them creatively and effectively in battle.
+Examples: Using lost technology to create energy bursts, setting traps, or deploying items that inflict status ailments on monsters.
+Conclusion
+The Corvath in Arathia: The Posthistoric Frontier add a layer of complexity and intrigue to the game's world. Their notorious thievery and hoarding of valuable items create ongoing conflicts with other species, particularly the Quarriel. Players must navigate these challenges diplomatically, forging friendships through trade and negotiation. The Corvath's unique abilities and their potential to assist in battles make them a valuable yet unpredictable presence in the forests of Arathia.
