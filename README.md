@@ -2,7 +2,7 @@ Arathia: The Posthistoric Frontier
 Genre
 Prehistoric Fantasy Adventure RPG
 Setting
-Arathia, a vast and diverse continent with forests, deserts, tundras, and volcanoes. Wonderful and awe-inspiring, filled with both harmony and danger.
+Arathia, a vast and diverse continent with forests, deserts, tundras, and volcanoes. Wonderful and awe-inspiring, filled with both harmony and danger. Humans from Earth sought to escape their dying planet by seeding Arathia, a distant world they believed to be uninhabited. However, Arathia was already home to diverse and evolving life forms. Due to a cosmic anomaly and time dilation, humans only returned to Arathia after what seemed like a thousand years to them but was actually 65 million years on Arathia.
 Storyline
 
 The protagonist is a hunter striving to become the best, maintain balance with nature, and protect civilization from monstrous threats. 
