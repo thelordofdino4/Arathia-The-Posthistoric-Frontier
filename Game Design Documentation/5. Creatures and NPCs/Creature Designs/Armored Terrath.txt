@@ -1,28 +1,55 @@
-Defining Characteristics of the Armored Terrath
-The Armored Terrath are a formidable and ancient species native to Arathia. They share some similarities with the Arak'rii but are distinguished by their heavily armored frames and unique adaptations to volcanic environments. The Terrath are known for their minimal interaction with other species and their technological primitiveness, which makes them a challenging yet intriguing presence in the world of Arathia.
-
 Detailed Description of the Armored Terrath
-Appearance: The Armored Terrath are imposing creatures with frames covered in rock-like armor. Their bodies glow with an internal heat, visible through cracks and seams in their armor. This internal heat is a result of their unique physiology, adapted to the extreme conditions of volcanic regions.
+Title: Arathia: The Posthistoric Frontier
 
-Armor: The rock-like armor is incredibly tough, providing excellent protection against physical attacks. The armor also serves as insulation, protecting the Terrath from the intense heat of their environment.
-Glow: The glow from their internal heat gives them an intimidating and almost otherworldly appearance, especially in low-light conditions.
-Tail: They possess long, powerful tails that end in either spikes or clubs, which they use as weapons in combat.
+Appearance:
+
+Size: The Armored Terrath stands about 6.5 feet tall.
+Build: It has a robust, heavily armored build adapted for protection and power.
+Skin and Scales: Covered in thick, rock-like armor that provides excellent protection against physical attacks and insulates them from extreme heat.
+Glow: Their bodies glow with internal heat, visible through cracks and seams in their armor, giving them an intimidating and almost otherworldly appearance, especially in low-light conditions.
+Head: The head is angular, with sharp, forward-facing eyes for keen sight.
+Wings: The wings are large and membranous, capable of flight despite the creature’s heavy build.
+Tail: The tail is long and muscular, ending in either spikes or clubs used as weapons in combat.
+Limbs: Four strong, muscular limbs tipped with large, retractable claws.
 Behavior and Culture:
 
-Isolationists: The Terrath prefer minimal interaction with other species, including the Arak'rii. They are highly territorial and will fiercely defend their domains.
-Technologically Primitive: The Terrath rely on volcanic glass tools and weapons. These tools are effective but fragile, and players can destroy them during combat.
+Isolationists: The Terrath prefer minimal interaction with other species, including the Arak'rii. They are highly territorial and fiercely defend their domains.
+Technologically Primitive: The Terrath rely on volcanic glass tools and weapons, which are effective but fragile and can be destroyed by players during combat.
 Warriors: They are formidable in battle, using their strength, armor, and tails to their advantage. Their combat style is direct and brutal, relying on overwhelming force to defeat their enemies.
 Habitat:
 
 Volcanic Regions: The Terrath make their homes in the harsh and fiery environments of Arathia's volcanic regions. They are perfectly adapted to the extreme heat and are rarely found outside these areas.
-Skies Above Volcanic Regions: In addition to their ground-based habitats, the Terrath also challenge the Arak'rii in the skies above volcanic regions. Their glowing forms can often be seen soaring above the fiery landscape.
+Skies Above Volcanic Regions: The Terrath also challenge the Arak'rii in the skies above volcanic regions. Their glowing forms can often be seen soaring above the fiery landscape.
 Technology:
 
 Volcanic Glass Tools: The Terrath use tools and weapons made from volcanic glass. While effective, these tools are brittle and can be destroyed by the player, adding a strategic element to encounters with the Terrath.
-Minimal Innovation: Due to their isolationist nature, the Terrath have not advanced technologically beyond basic toolmaking. This makes them technologically primitive compared to other species on Arathia.
+Minimal Innovation: Due to their isolationist nature, the Terrath have not advanced technologically beyond basic toolmaking.
 Interaction with Other Species:
 
 Challengers: The Terrath primarily challenge the Arak'rii for dominance in volcanic regions and the skies above. Their territorial nature makes them formidable opponents.
 Potential Allies: While they prefer minimal interaction, the Terrath can potentially be brought into the fold of allies. Doing so requires overcoming significant cultural and communication barriers, adding to the player's challenges.
-Conclusion
-The Armored Terrath in Arathia: The Posthistoric Frontier add a layer of complexity and danger to the volcanic regions of the game. Their unique characteristics, such as their rock-like armor, internal heat, and primitive technology, make them a formidable and intriguing species. Players will need to navigate the challenges posed by the Terrath, both in combat and in potential alliances, adding depth to the game's world and narrative.
+
+Taxonomic Description of the Armored Terrath
+Kingdom: Lithocellata
+
+Diagnostic Feature: Multicellular, mineralized cell walls with no voltaic organelles
+Additional Feature: Four nuclei for genetic repair and adaptation
+Phylum: Hexapodiformes
+
+Diagnostic Feature: Six-limbed organisms with an internal skeleton
+Additional Feature: Diverse adaptations for various environmental niches
+Class: Dracos
+
+Diagnostic Feature: Six-limbed creatures with horn-like antennae organs controlling various biological functions
+Clade: Alata
+
+Diagnostic Feature: Two arms, two legs, and two wings, adapted for flight
+Family: Draconanthropidae
+
+Diagnostic Feature: Dragonic humanoid creatures with specialized abilities
+Genus: Terrathus
+
+Diagnostic Feature: Heavily armored, glowing with internal heat, adapted to volcanic environments
+Species: Terrathus armatus
+
+Common Name: Armored Terrath
