@@ -26,6 +26,9 @@ Volcanic Glass Tools: The Terrath use tools and weapons made from volcanic glass
 Minimal Innovation: Due to their isolationist nature, the Terrath have not advanced technologically beyond basic toolmaking.
 Interaction with Other Species:
 
+Evolutionary History of the Armored Terrath:
+The Armored Terrath (Terrathus armatus) evolved from early hexapodiform ancestors that inhabited a variety of environments on Arathia. Over millions of years, the ancestors of the Armored Terrath, belonging to the Alata clade of the Dracos class, faced intense environmental pressures in volcanic regions. To survive, they developed thick, rock-like armor for protection against physical attacks and extreme heat. Their unique physiological trait of internal heat generation added an intimidating glow, enhancing their survival in fiery habitats. This adaptation, coupled with aggressive territorial behavior and an isolationist culture, helped them thrive despite technological stagnation. Today, the Armored Terrath is a formidable species, perfectly adapted to its volcanic environment, playing a crucial role in maintaining the ecosystem's balance.
+
 Challengers: The Terrath primarily challenge the Arak'rii for dominance in volcanic regions and the skies above. Their territorial nature makes them formidable opponents.
 Potential Allies: While they prefer minimal interaction, the Terrath can potentially be brought into the fold of allies. Doing so requires overcoming significant cultural and communication barriers, adding to the player's challenges.
 
