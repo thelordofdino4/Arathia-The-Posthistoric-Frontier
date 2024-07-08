@@ -41,6 +41,10 @@ Evolutionary History:
 
 The Flashhorns and Flashicorns evolved from early hexapodiform ancestors native to Arathia. Over millions of years, these creatures adapted to the dense forest environments, developing their unique arboreal lifestyle and defensive flash mechanism. The ability to produce a disorienting flash by striking their horn-like antennae against their heads provided a significant survival advantage against predators. Sexual dimorphism led to the emergence of larger, more robust males (Flashicorns) who aggressively defended their territories, while females (Flashhorns) remained smaller and more agile. Their diet of plant-like Xenophyta organisms, specifically xenofruits, became crucial for their survival, providing the raw nutrients needed for their flash defense. As primary seed dispersers, they play a vital role in maintaining the health and diversity of their forest habitats.
 
+Evolutionary History:
+
+The Flashhorns and Flashicorns evolved from early hexapodiform ancestors native to Arathia. These ancestors initially inhabited a variety of environments but began to specialize in dense forest habitats millions of years ago. As they adapted to arboreal life, their limbs became more dexterous, enabling efficient climbing and foraging. The development of horn-like antennae provided a defensive advantage, allowing them to produce disorienting flashes to escape predators. Sexual dimorphism emerged, with males becoming larger and more aggressive to protect territories and resources. Their diet evolved to include xenofruits from plant-like Xenophyta organisms, which supplied essential nutrients for their flash-producing abilities. Over time, these adaptations cemented their role as primary seed dispersers in the forest ecosystem, ensuring the survival and proliferation of diverse plant species.
+
 Kingdom: Lithocellata
 
 Diagnostic Feature: Multicellular, mineralized cell walls with no voltaic organelles
