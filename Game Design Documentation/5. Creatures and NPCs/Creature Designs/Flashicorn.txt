@@ -58,6 +58,11 @@ Class: Dracos
 Diagnostic Feature: Six-limbed creatures with horn-like antennae organs controlling various biological functions
 Clade: Quadripes
 
+Order: Hexatheropoda
+
+Diagnostic Feature: Organisms with six limbs, specialized for diverse functions including predation and locomotion
+Additional Feature: Reflective, camouflaging scales and unique sensory adaptations
+
 Diagnostic Feature: Six limbs with four arms and two legs adapted for terrestrial movement and specialized attacks
 Family: Flashornidae
 
