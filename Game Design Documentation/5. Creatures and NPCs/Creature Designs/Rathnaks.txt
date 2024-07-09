@@ -1,7 +1,7 @@
-Defining Characteristics of the Rathnaks
+Detailed Description of the Rathnaks
+Defining Characteristics of the Rathnaks:
 The Rathnaks are diminutive, rat-like sentient creatures, smaller than the Ferloth. Their primary driving force is fear, which has led them to become intricate planners and masters of sabotage and subversion. This paranoia and meticulous planning have shaped their culture and behavior, making them one of the most elusive and strategically minded species on Arathia.
 
-Detailed Description of the Rathnaks
 Appearance:
 
 Size: The Rathnaks are diminutive, smaller than the Ferloth, typically standing less than a foot tall.
@@ -37,5 +37,39 @@ Player Interaction:
 
 Diplomatic Goals: The protagonist's goal is to demonstrate that other races mean the Rathnaks no harm, fostering trust and understanding.
 Tactical Support: While players cannot recruit Rathnaks, they can encounter them in the tundra regions. The Rathnaks may assist by laying traps and using their underground network to support the player in combat.
-Conclusion
-The Rathnaks in Arathia: The Posthistoric Frontier add a layer of tension and complexity to the game's icy tundra regions. Their fear-driven culture, intricate planning, and masterful use of traps create a challenging yet rewarding dynamic for players. The protagonist's mission to gain their trust and show that other races mean no harm is central to the player's journey. The Rathnaks' unique abilities and potential to assist in battles through their network of tunnels and traps enrich the gameplay experience, making them a crucial part of the world's diverse and complex ecosystem.
+Evolutionary History:
+
+The Rathnaks evolved from small, burrowing rodents that originally inhabited temperate regions of Arathia. As the planet's climate changed and some regions became icy tundras, these ancestors adapted to the harsh conditions. Over millions of years, natural selection favored those with better camouflage, enhanced burrowing abilities, and more intricate planning skills to avoid predators and survive the extreme cold. Their fur evolved to a frost-colored hue, providing effective camouflage against the snow and ice. The constant threat of predators and harsh environmental conditions drove them to develop an unparalleled level of paranoia and meticulous planning, leading to their current behavior and culture. Their ability to create and navigate complex trap systems and underground tunnels further enhanced their survival, cementing their role as one of the most elusive and strategically minded species on Arathia.
+
+Taxonomic Tree for the Rathnaks
+Kingdom: Animalia
+
+Diagnostic Feature: Multicellular, eukaryotic organisms
+Additional Feature: Heterotrophic, primarily through ingestion
+Phylum: Chordata
+
+Diagnostic Feature: Possesses a notochord at some stage of development
+Additional Feature: Dorsal nerve cord, pharyngeal slits, and post-anal tail
+Class: Mammalia
+
+Diagnostic Feature: Mammary glands, hair or fur, three middle ear bones
+Additional Feature: Endothermic (warm-blooded), live births (except monotremes)
+Order: Rodentia
+
+Diagnostic Feature: Single pair of continuously growing incisors in each of the upper and lower jaws
+Additional Feature: Gnawing habit, varied diet
+Family: Muridae
+
+Diagnostic Feature: Generally small, terrestrial rodents with a high reproductive rate
+Additional Feature: Adaptable to a variety of environments
+Genus: Rathnakus
+
+Diagnostic Feature: Small, subterranean rodents with advanced burrowing abilities
+Additional Feature: Highly developed social structures and defensive behaviors
+Species: Rathnakus glaciensis
+
+Common Name: Rathnak
+Size: Smaller than Ferloth, around the size of a small rabbit
+Habitat: Iced over parts of the world, subterranean lairs
+Behavior: Highly paranoid, meticulous trap fields, advanced planning for sabotage and subversion
+Abilities: Camouflaged in their environment, intricate trap setting, and subterranean navigation
