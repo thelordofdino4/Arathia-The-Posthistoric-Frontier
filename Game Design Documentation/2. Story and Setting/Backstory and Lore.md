@@ -1,4 +1,4 @@
-## Introduction
+## Introduction(This document is unfinished and is subject to change)
 Arathia: The Posthistoric Frontier is set on a distant planet named Arathia, a world that humans initially believed to be uninhabited. This world, with its prehistoric fantasy landscape, serves as the stage for a grand tale of survival, exploration, and the delicate balance between humans and native species.
 
 ## Human Arrival and Initial Colonization
