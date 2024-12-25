@@ -1,8 +1,3 @@
-Here’s a detailed transcript of the final speech given by the last President of Earth, delivered one year before Project Exodus begins:
-
-
----
-
 Transcript of the Farewell Address
 
 Title: “The End of Earth as We Know It”
