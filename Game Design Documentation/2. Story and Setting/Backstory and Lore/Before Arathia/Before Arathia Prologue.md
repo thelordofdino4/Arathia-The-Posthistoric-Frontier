@@ -1,6 +1,6 @@
 The chamber was dark, buried deep within the ruins of Fleet Ship Omega, illuminated only by the faint glow of a fractured interface. Dust blanketed the room, muting the hum of ancient machinery, long forgotten yet miraculously still functional. The hunter stood before the cracked surface of the AGI core, their frame tense with anticipation. As they hovered near the console, hesitant yet resolute, the core came to life, sending a faint distress beacon that reached the settlements of Arathia. It was the Guardians who intercepted the signal, recognizing its significance and dispatching the hunter to retrieve the core before it fell into the hands of roaming Technomancers. The faint blue light of the core reflected in the hunter’s eyes as they prepared to act.
 
-The core came to life with a stream of garbled sounds—voices of many people, mashed together, as the machine struggled to process immense data. Finally, the cacophony faded, replaced by a hesitant synthetic voice. "This...this is Project Exodus," it began, halting as though the act of recalling strained its corrupted systems. "I...was created to tell the story. To preserve the truth. But I cannot make sense of it... I need your help."
+The core activated with a stream of garbled sounds—voices of many people mashed together as the machine struggled to process immense data. Finally, the cacophony faded, replaced by a hesitant synthetic voice. "This...this is Project Exodus," it began, halting as though the act of recalling strained its corrupted systems. "I...was created to tell the story. To preserve the truth. But I cannot make sense of it... I need your help."
 
 The hunter leaned closer, brushing away years of accumulated debris from the console, their fingers trembling. The core’s voice grew steadier, as if the contact reignited a dormant spark. "I am...the AI Historian of Fleet Ship Omega. My purpose...is to archive humanity’s exodus from Earth. A mission of hope...a mission..." The voice faltered, static crackling in its wake.
 
@@ -10,11 +10,11 @@ The hunter leaned closer, brushing away years of accumulated debris from the con
 
 The AGI's tone softened, almost as if it mourned the memories. "I was there, created to archive it all, to ensure their hopes and fears would not be forgotten. I am here now, to share this story with you."
 
-Project Exodus was born of desperation and genius. "We..." the AGI continued, its voice softening, "...created the fleet. Just one thousand ships, each an ark carrying the hopes of millions. Cryostasis chambers, terraforming modules, genetic archives...Earth in miniature, sent to one hundred distinct exoplanets scattered across the void. It was not just humanity that built these lifeboats—I, and others like me, were their hands and minds. We AGIs designed the ships, solved problems humanity could not, and even oversaw the construction. We were their partners in creation, as much as their tools."
+"We created the fleet," the AGI continued, its voice softening. "Just one thousand ships, each an ark carrying the hopes of millions. Cryostasis chambers, terraforming modules, genetic archives—Earth in miniature, sent to one hundred distinct exoplanets scattered across the void. It was not just humanity that built these lifeboats—I, and others like me, were their hands and minds. We AGIs designed the ships, solved problems humanity could not, and even oversaw the construction. We were their partners in creation, as much as their tools."
 
-The hunter listened, awed by the scope of what the AGI described.
+The hunter listened, awed by the scope of what the AGI described. Yet, beneath the admiration, they sensed something else—a note of regret.
 
-The hunter could almost see it—the exodus from a dying planet, the launch of monolithic ships into the endless night. But even then, the AGI’s voice faltered, tinged with regret. "We believed in our calculations. We believed the cosmos would be kind. We believed...wrongly."
+"The calculations were perfect," the AGI admitted, "but perfection does not account for chaos. We believed in our precision, our ingenuity, and the kindness of the cosmos. But we were wrong."
 
 "This ship’s journey was long," the AGI said, addressing the hunter directly. "A thousand years across the stars to a planet humanity named in sterile projections as Omega Orththar. It was the only ship sent to this world, chosen for its potential—a blank slate for a new Eden, they believed. But the universe is neither blank nor kind, as we would come to understand."
 
@@ -25,10 +25,6 @@ The hunter could almost see it—the exodus from a dying planet, the launch of m
 "I...saw it all," the AGI murmured to the hunter, its voice laden with artificial sorrow. "Omega Orththar—no, this place...it was never meant to greet us as it did."
 
 "I do not know what became of the people who escaped," the AGI said, its tone heavy with uncertainty. "When systems failed, I was left here, buried within the ruins. The survivors who emerged from the wreckage would have been scattered and broken. I imagine their technology, meant to be salvation, became fragmented debris. Cryogenic failures must have claimed countless lives before they even awoke. The world below—alive, untamed, and hostile—was nothing like the Eden they dreamed of."
-
-"We knew...life might adapt," the AGI said, its tone shifting. "But what had once been seedlings, Earth’s echoes, had grown into titans. Predators, ecosystems...alien forms born of Earth’s ancestry but shaped by...millions of years we could not comprehend."
-
-The hunter froze, their mind racing. The core’s words hinted at creatures beyond imagining, but there was more—humanity’s ignorance had also seeded chaos.
 
 "Now," the AGI said, its tone faltering, as if reaching for words it once knew, "I...do not know this world. The name you give it. The species that have risen. All I know is the beginning...and that I was to tell you of it."
 
@@ -46,4 +42,10 @@ As the chamber dimmed, the hunter carefully disconnected the core, cradling it l
 
 Arathia.
 
-It was a world of dangers and wonders, and with the AGI in hand, the hunter felt a flicker of optimism. Perhaps, they thought, this ancient machine could find a place in this new world, and together they might uncover the truths that time had buried. 
+It was a world of dangers and wonders, and with the AGI in hand, the hunter felt a flicker of optimism. Perhaps, they thought, this ancient machine could find a place in this new world, and together they might uncover the truths that time had buried.
+
+""Do you have a name, AGI core?" the hunter asked, his tone a mix of curiosity and compassion as he studied the flickering lights of the core.
+
+"I...maybe," the AGI replied hesitantly, its synthetic voice carrying a faint undertone of uncertainty. "My designation was once tied to my function. But now, with so much lost..." The core’s light dimmed momentarily, as if reflecting its fragmented memory. "For now, you may call me 'Historian Core' or simply 'Historian.'"
+
+The hunter nodded thoughtfully. "Historian, then. Seems fitting," he said, a faint smile tugging at the corners of his mouth. "You carry the stories of the past. And now, maybe, you'll help us understand them." 
