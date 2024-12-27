@@ -1,5 +1,5 @@
 Prologue
-Millions of years ago, humans from Earth sought to escape their dying planet by seeding Arathia, a distant world they believed to be uninhabited. However, Arathia was already home to diverse and evolving life forms. Due to a cosmic anomaly and time dilation, humans only returned to Arathia after what seemed like a million years to them but was actually 65 million years on Arathia.
+Millions of years ago, humans from Earth sought to escape their dying planet by seeding Arathia, a distant world they believed to be uninhabited. However, Arathia was already home to diverse and evolving life forms. Due to a cosmic anomaly and time dilation, humans only returned to Arathia after what seemed like a million years to them but was actually 15 million years on Arathia.
 
 Act 1: Awakening
 Awakening: The protagonist begins their journey by stepping out of their home, 70 years after the initial crash landing. They step outside, introducing the player to the new world and the settlement where the protagonist lives.
@@ -39,7 +39,7 @@ Act 4: The Great Cataclysm
 Final Preparation: The protagonist is finally ready to face the predator that caught them off guard in Act 2. They prepare new armor and weapons, build defensive structures around the settlement, and secure aid from the conflicting factions.
 The Battle: The quest involves drawing the predator to the settlement in a high-stakes battle. Guns, cannons, and defensive barriers are erected, trapping the monster in an arena with the hunter. After a fierce battle, the predator is defeated.
 Celebration and Calamity: The village celebrates the victory, but the land shakes as a volcano erupts. The cause of the eruption is not geologic but the awakening of an ancient behemoth beneath the land.
-Revealing the Threat: The Arak'rii inform the player that if the behemoth is not slain, it will cause a localized mass extinction, threatening all life. This creature is a native Lithocellata refined by 65 million years of strife.
+Revealing the Threat: The Arak'rii inform the player that if the behemoth is not slain, it will cause a localized mass extinction, threatening all life. This creature is a native Lithocellata refined by 15 million years of strife.
 Hope Against Despair: Initially, hope is lost, but the protagonist insists they are up to the task. The Arak'rii put the player through a series of trials before agreeing that they are the only one who can destroy the monster.
 Learning from the Past: During the trials, more information about the lost civilization, their tools, and how they died off (at the hands of the same monster) is revealed. The player learns from their mistakes and crafts a final new weapon type ideally suited to vanquishing the creature (this weapon is not required to fight the final boss of the main story).
 Trials and Training: The trials involve various tasks, including fighting smaller but similarly formidable creatures, gathering rare materials, and mastering new techniques that will be essential in the final battle.
