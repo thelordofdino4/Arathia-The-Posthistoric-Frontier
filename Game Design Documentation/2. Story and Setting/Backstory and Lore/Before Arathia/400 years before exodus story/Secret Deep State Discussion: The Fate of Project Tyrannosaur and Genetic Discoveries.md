@@ -1,4 +1,4 @@
-# Secret Deep StatSecret Deep State Discussion: The Fate of Project Tyrannosaur and Genetic Discoveries
+# Secret Deep State Discussion: The Fate of Project Tyrannosaur and Genetic Discoveries
 e Discussion: The Fate of Project Tyrannosaur and Genetic Discoveries
 
 ---
