@@ -4,7 +4,7 @@
 
 ## **The Great Decline**  
 
-390 years before Project Exodus, Earth’s population plummeted to 2.4 billion—a catastrophic drop from the 7 billion that had lived on the planet just a century prior. This era, known as **The Great Decline**, marked the unraveling of human civilization as famine, ecological disasters, and violent conflicts over dwindling resources swept the globe.  
+390 years before Project Exodus, Earth’s population plummeted to 2.4 billion—a catastrophic drop from the 7 billion that had lived on the planet just a few centuries prior. This era, known as **The Great Decline**, marked the unraveling of human civilization as famine, ecological disasters, and violent conflicts over dwindling resources swept the globe.  
 
 ---
 
