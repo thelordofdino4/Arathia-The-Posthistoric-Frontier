@@ -34,9 +34,9 @@ Nathaniel’s brow furrowed slightly, but the moment passed quickly.
 
 Nathaniel: “Ah, yes, the optimism of fools. Speaking of fools, I’ve got one more.”
 
-He walked to a display cabinet and carefully removed a faded, tattered flag. The red and yellow stars of China were barely visible, worn down by time.
+He walked to a display cabinet and carefully removed a faded, tattered flag. The red and yellow stars of  the Sino Federation were barely visible, worn down by time.
 
-Nathaniel: “Behold! The last flag flown over Beijing before they signed their sovereignty away. A piece of history, right here in my hands. And to think, the Helios board bought the entire region for less than it cost to terraform Mars.”
+Nathaniel: “Behold! The last flag flown over the Sino Federation’s capital before they signed their sovereignty away. A piece of history, right here in my hands. And to think, the Helios board bought the entire region for less than it cost to terraform Mars.”
 
 Natalie smirked, though her eyes betrayed a hint of discomfort. She held up her own artifact: a preserved fast-food wrapper from the United States, bearing the slogan “Have it Your Way.”
 
