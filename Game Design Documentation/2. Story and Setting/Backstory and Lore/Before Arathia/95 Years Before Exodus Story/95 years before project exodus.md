@@ -13,7 +13,7 @@ Ninety-five years before Project Exodus, the One-World Government formally appro
 ### **The Catalyst for Action**  
 By this point, the situation on Earth had grown increasingly dire:  
 - **Ecological Collapse**: With over 95% of complex species extinct and Earth's biosphere irreparably damaged, restoring the planet was no longer viable.  
-- **Population Decline**: Humanity’s population had fallen to under 500 million, with resources stretched to the breaking point.  
+- **Population Decline**: Humanity’s population had fallen to under 200 million, with resources stretched to the breaking point.  
 - **Global Instability**: Widespread unrest and dwindling resources left the One-World Government with no alternative but to prioritize off-world survival.  
 
 ### **Approval of the Project**  
