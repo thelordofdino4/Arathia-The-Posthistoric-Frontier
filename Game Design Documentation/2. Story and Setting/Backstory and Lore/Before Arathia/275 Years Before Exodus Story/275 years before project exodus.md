@@ -6,7 +6,7 @@
 
 275 years before Project Exodus, Mars, once humanity’s shining hope for survival beyond Earth, suffered a catastrophic population collapse. An aging demographic, declining birth rates, and stagnating technological progress pushed the colony into a downward spiral.  
 
-Though terraforming efforts had advanced, increasing the planet’s habitable surface to 5%, this was far from enough to sustain its population, leading to a dramatic reduction in Martian society's size and stability.  
+Though terraforming efforts had advanced, increasing the planet’s habitable surface to 10%, this was far from enough to sustain its population, leading to a dramatic reduction in Martian society's size and stability.  
 
 ---
 
