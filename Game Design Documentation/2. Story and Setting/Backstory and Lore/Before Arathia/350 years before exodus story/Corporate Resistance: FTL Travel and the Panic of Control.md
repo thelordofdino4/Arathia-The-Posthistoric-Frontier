@@ -1,4 +1,5 @@
-Corporate Resistance: FTL Travel and the Panic of Control350 Years Before Project Exodus
+Corporate Resistance: FTL Travel and the Panic of Control
+350 Years Before Project Exodus
 
 The success of the Daedalus was meant to be a moment of celebration. Humanity had cracked the code to faster-than-light (FTL) travel, finally unlocking the means to traverse the vast expanse of space. For the dreamers, it was a promise of new frontiers. For Earth’s mega-corporations, it was an existential threat.
 
