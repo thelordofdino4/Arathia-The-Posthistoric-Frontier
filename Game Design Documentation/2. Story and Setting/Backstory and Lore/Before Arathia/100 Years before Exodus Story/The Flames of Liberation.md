@@ -1,7 +1,7 @@
 Title: The Flames of Liberation
 
 Location: New Detroit, Earth’s last corporate stronghold under Helios Industries
-Time: 100 Years Before Project Exodus
+Time: 104 Years Before Project Exodus
 
 The streets of New Detroit burned with desperation. Smoke rose from shattered storefronts as workers, fed up with years of exploitation and deprivation, stormed the industrial heart of the city. Helios Industries, once a symbol of corporate dominance, had turned the city into a factory for the elite’s survival, leaving the labor force to toil in squalor for rationed water and recycled food.
 
