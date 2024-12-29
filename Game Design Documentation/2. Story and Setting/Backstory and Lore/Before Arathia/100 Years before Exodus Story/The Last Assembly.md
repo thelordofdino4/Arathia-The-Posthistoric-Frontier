@@ -1,7 +1,7 @@
 The Last Assembly
 
 Location: A hidden corporate boardroom deep within an abandoned orbital station.
-Time: 100 Years Before Project Exodus, directly following the rebellion in New Shanghai.
+Time: 104 Years Before Project Exodus, directly following the rebellion in New Shanghai.
 
 The boardroom was a stark contrast to its former grandeur. Cracked screens flickered dimly against walls once adorned with corporate logos now stripped away. Dust settled on the polished black table, interrupted only by the desperate shuffling of executives who had once wielded unimaginable power. Their holographic projections floated above empty chairs where in-person attendees would have sat in better days.
 
