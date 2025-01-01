@@ -26,23 +26,24 @@ Geological Activity: Minimal; limited resource extraction reduces risks.
 Mars: A Renewed Era of Growth
 150 Years Before Project Exodus
 
-Mars experienced a period of revitalization, with terraforming projects expanding the habitable surface to 20%. This milestone enabled the planet’s population to stabilize temporarily, reaching 12 million. Support from the Asteroid Belt provided the resources needed for large-scale planetary engineering, while advancements in atmospheric processing and radiation shielding improved living conditions. Despite these achievements, Mars’ dependency on external resources and demographic challenges foreshadowed future difficulties.
+Mars experienced a period of revitalization, with terraforming projects expanding the habitable surface to 20%. Advancements in atmospheric processing and radiation shielding enabled limited areas near domes to support unassisted human activity, marking a monumental milestone in planetary engineering. The planet’s population stabilized temporarily at 12 million, bolstered by resources from the Asteroid Belt and technological innovation. Despite these achievements, challenges such as resource dependencies and demographic shifts hinted at future struggles.
 
 Population: Approximately 12 million, stabilized with a growing second-generation population.
-Presence of Liquid Water: Controlled aquifers and reservoirs support agriculture and human needs.
-Chemical Environment: The atmosphere remains CO2-dominated but is increasingly enriched with oxygen and nitrogen in habitable areas.
+Presence of Liquid Water: Controlled aquifers and reservoirs support agriculture and human consumption.
+Chemical Environment: The atmosphere remains CO2-dominated, but oxygen-enriched regions near domes allow limited unassisted human activity.
 Energy Sources: Fusion and nuclear energy dominate; solar power supplements energy needs.
-Physical Conditions: Expanded habitable zones reduce reliance on domed cities.
+Physical Conditions: Expanded habitable zones reduce reliance on domed cities, with limited open-air areas supporting human activity.
 Atmospheric Composition (Domed Zones): Oxygen: 21%. Nitrogen: 79%.
-Climate Stability: Artificially controlled within domes; terraforming expands habitable zones incrementally.
-Radiation Protection: Electromagnetic generators create localized shielding, enabling surface expansion.
-Geophysical Stability: Stable; mining operations are regulated to prevent disruptions.
-Ecosystem Support: Hydroponic farming and engineered crops sustain the population.
+Atmospheric Composition (Surface Near Domes): Oxygen: 10–12%, CO2: 3%, with atmospheric pressure sufficient for short-term human exposure.
+Climate Stability: Artificially controlled within domes; terraforming reduces reliance on fully enclosed habitats in key regions.
+Radiation Protection: Electromagnetic generators create localized shielding, enabling expansion of surface activity.
+Geophysical Stability: Stable; mining operations and construction are carefully regulated to prevent disruptions.
+Ecosystem Support: Hydroponic farming and genetically engineered crops sustain the population.
 Economic Indicators: Steady growth driven by resource imports and local innovation.
 Military Capabilities: Defensive forces secure resources and maintain internal stability.
-Geographical Factors: Expansion focuses on equatorial regions; polar ice is used for water extraction.
+Geographical Factors: Expansion focuses on equatorial regions; polar areas are used for water extraction and resource mining.
 Demographics: Balanced population structure with moderate youth growth.
-Technological Development: Progress in terraforming, life support, and energy efficiency.
+Technological Development: Progress in terraforming, life support, and energy efficiency supports incremental improvements in surface habitability.
 International Relations: Cooperative relations with the Belt and orbital habitats; growing independence from Earth.
 Environmental Considerations: Sustainability remains a priority to support long-term growth.
 Magnetic Field: Nonexistent; artificial shielding mitigates radiation risks.
