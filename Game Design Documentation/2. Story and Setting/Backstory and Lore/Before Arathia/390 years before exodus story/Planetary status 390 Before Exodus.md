@@ -44,13 +44,9 @@ Radiation Protection: The ozone layer is partially depleted, increasing UV radia
 
 Geophysical Stability: Stable overall, but localized risks from over-mining and deforestation cause landslides and sinkholes.
 
-Ecosystem Support:
-
-Approximately 35% of species remain.
+Approximately 44% of species remain.
 
 Ecosystems are fragmented and fail to provide adequate support for human or animal populations.
-
-Economic Indicators:
 
 Global economies are in freefall, with wealth concentrated in corporate enclaves.
 
