@@ -4,7 +4,7 @@
 
 ## **A Catastrophic Collapse**  
 
-By 320 years before Project Exodus, Earth had entered the terminal stages of the Sixth Mass Extinction. Over 95% of all complex multicellular species had vanished, leaving the planet’s ecosystems shattered beyond recognition. What had once been a thriving biosphere teeming with life was now a bleak, inhospitable wasteland.  
+By 320 years before Project Exodus, Earth had entered the terminal stages of the Sixth Mass Extinction. Over 75% of all complex multicellular species had vanished, leaving the planet’s ecosystems shattered beyond recognition. What had once been a thriving biosphere teeming with life was now a bleak, inhospitable wasteland.  
 
 While isolated populations of flora and fauna survived in artificial biomes and refuges, these efforts were too limited to restore the intricate balance of Earth’s ecosystems. The damage was irreversible, cementing Earth’s status as a dying world.  
 
