@@ -11,7 +11,7 @@ Role: Instrumental in Martian dome development and early terraforming projects.
 Dominion Industries
 
 Primary Focus: Infrastructure development and logistics.
-Role: Critical in constructing orbital habitats and Belt mining facilities.
+Role: Critical in constructing orbital habitats and Belt mining facilities. Abandoned moon project.
 
 Ascendant Logistics
 
