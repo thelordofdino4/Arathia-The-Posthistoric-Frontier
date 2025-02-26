@@ -1,6 +1,6 @@
 A World in Decline: Earth 450 Years Before Project Exodus
 
-The year was 2150, and the world was breaking under the weight of humanity’s mistakes. The numbers painted a stark picture: over 50% of Earth’s species were extinct, the ice caps were in an irreversible tailspin, and global population growth had come to a halt for the first time in recorded history. For the first time since the 21st century, ecosystems that had once shown signs of stabilization were shrinking again, their fragile recovery undone by relentless exploitation. The 23rd century had dawned not with promise, but with despair.
+The year was 2150, and the world was breaking under the weight of humanity’s mistakes. The numbers painted a stark picture: over 50% of Earth’s species were extinct, the ice caps were in an irreversible tailspin, and global population growth had come to a halt for the first time in recorded history. For the first time since the 21st century, ecosystems that had once shown signs of stabilization were shrinking again, their fragile recovery undone by relentless exploitation. The 22rd century had dawned not with promise, but with despair.
 
 The Collapsing Ecosystems
 
