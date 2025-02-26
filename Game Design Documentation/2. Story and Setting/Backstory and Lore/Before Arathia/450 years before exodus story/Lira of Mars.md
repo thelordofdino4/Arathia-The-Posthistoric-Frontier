@@ -8,13 +8,13 @@
 
 ### The Settlement
 
-The Martian sunrise was unlike anything Lira Orin had seen in her short life on Earth. A pale, pink glow spread across the horizon, illuminating the jagged shadows of Olympus Mons and the sprawling dome of **Arsia Base**. The thin Martian atmosphere filtered the sunlight into muted hues, a faint reminder of the fiery golds and blues she once knew. But this was home now.
+The Martian sunrise was unlike anything Lira Orin had ever witnessed. A pale, pink glow slowly spread across the horizon, painting the jagged outlines of Olympus Mons and the sprawling dome of Arsia Base in soft, otherworldly light. The thin atmosphere filtered the sun’s rays into muted hues—a subtle echo of the fiery golds and blues of Earth—reminding her that, while memories of home lingered, Mars was now her reality.
 
-In 2160, as the Mars colony began to stretch beyond its original outpost in Valles Marineris, the settlers embarked on a daring expansion into the shadow of Arsia Mons. Known as the “red dust dreams” era, this phase marked the establishment of new dome habitats along the rugged slopes of the colossal shield volcano. The unique geography of Arsia Mons offered more than just a striking backdrop—it provided untapped geothermal energy and easier access to subsurface ice, essential for sustaining life on the harsh Martian surface. Here, pioneers faced the raw, unforgiving Martian landscape with a blend of trepidation and hope, their dreams as vast and volatile as the red dust that swirled around them.
+By 2160, the colony had grown far beyond its initial foothold in Valles Marineris. During this phase, known as the “red dust dreams” era, settlers embarked on a bold expansion into the shadow of Arsia Mons. The rugged slopes of this colossal shield volcano not only provided a dramatic backdrop but also offered untapped geothermal energy and easier access to precious subsurface ice—vital resources for survival on the harsh Martian surface. Here, pioneers met the raw, unforgiving landscape with equal measures of trepidation and hope, their aspirations as unpredictable as the swirling red dust around them.
 
-Lira tightened the straps of her oxygen pack as she stepped into the airlock. She watched the dust swirl beyond the reinforced glass—red and relentless. The Martian wind howled softly as the external hatch opened, and she stepped out into the barren expanse.
+Lira tightened the straps of her oxygen pack as she stepped into the airlock, watching the relentless red dust dance beyond the reinforced glass. As the Martian wind whispered through the open hatch, she took a deep breath and stepped out into the barren expanse.
 
-It had been ten years since she and her family left Earth, joining the second wave of colonists in the **Great Expansion**. Mars had promised opportunity, purpose, and survival—a new frontier for a dying humanity. The red planet delivered, but at a cost.
+It had been ten years since she and her family joined the second wave of colonists during the Great Expansion. Mars had promised opportunity, purpose, and a refuge for a dying humanity—and while the red planet delivered on that promise, the cost was written in every gust of wind and every grain of scarlet dust.
 
 ---
 
