@@ -10,6 +10,8 @@
 
 The Martian sunrise was unlike anything Lira Orin had seen in her short life on Earth. A pale, pink glow spread across the horizon, illuminating the jagged shadows of Olympus Mons and the sprawling dome of **Arsia Base**. The thin Martian atmosphere filtered the sunlight into muted hues, a faint reminder of the fiery golds and blues she once knew. But this was home now.
 
+In 2160, as the Mars colony began to stretch beyond its original outpost in Valles Marineris, the settlers embarked on a daring expansion into the shadow of Arsia Mons. Known as the “red dust dreams” era, this phase marked the establishment of new dome habitats along the rugged slopes of the colossal shield volcano. The unique geography of Arsia Mons offered more than just a striking backdrop—it provided untapped geothermal energy and easier access to subsurface ice, essential for sustaining life on the harsh Martian surface. Here, pioneers faced the raw, unforgiving Martian landscape with a blend of trepidation and hope, their dreams as vast and volatile as the red dust that swirled around them.
+
 Lira tightened the straps of her oxygen pack as she stepped into the airlock. She watched the dust swirl beyond the reinforced glass—red and relentless. The Martian wind howled softly as the external hatch opened, and she stepped out into the barren expanse.
 
 It had been ten years since she and her family left Earth, joining the second wave of colonists in the **Great Expansion**. Mars had promised opportunity, purpose, and survival—a new frontier for a dying humanity. The red planet delivered, but at a cost.
