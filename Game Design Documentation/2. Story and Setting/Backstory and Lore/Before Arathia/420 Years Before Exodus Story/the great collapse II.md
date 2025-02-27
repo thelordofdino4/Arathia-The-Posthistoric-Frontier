@@ -24,6 +24,13 @@ Orion led Emilia through a splintered doorway etched with graffiti reading, *“
 
 He exhaled, eyes scanning the collapsed ceiling overhead. "They knew," he murmured, "but they couldn’t agree on how to stop it. By 2160, we saw the first widespread water wars—and by 2170, entire nations were in open conflict. This hall was overrun years ago, I hear." He gestured at the charred walls. "I guess the last pleas for unity died with it."
 
+As Orion and Emilia explore the ruins of Geneva Assembly Hall, they come across a partially intact media terminal. The screen flickers to life, showing archived footage from the emergency summit held decades earlier. In the footage, Administrator Nareen Delgado is seen delivering a passionate address—her voice firm yet laden with sorrow. Overlaid on the screen, Dr. Ariel Song’s voice begins to provide an update.
+
+"Since that summit, my team and I have tracked an acceleration in climate feedback loops. What Delgado warned about is no longer a future possibility—it is our daily reality. Rising temperatures, rampant resource conflicts, and an ever-shrinking biosphere are now evident in every corner of the globe."
+
+Back in the present, as Emilia studies a half-burned booklet with climate charts, Orion remarks,
+"They knew, and they tried—but even the brightest warnings couldn’t stem the tide."
+
 ## Divisions in a Collapsing World
 
 Beyond the ruins, makeshift settlements and refugee camps sprawled across the Swiss countryside, with tarps and corrugated metal forming a ragged skyline. A patchwork of survival. Emilia and Orion had passed through these camps on their journey, witnessing people trading salted fish for solar batteries, or bartering family heirlooms for a few liters of drinkable water.
