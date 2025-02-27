@@ -58,6 +58,8 @@ The next morning brought another dust storm, stronger than usual. The settlement
 
 Lira’s heart sank. Without the oxygenator, the eastern dome’s air would thin rapidly. It wasn’t just crops at risk—it was lives.
 
+To make things worse, the AI repair drones were down for maintenance. The last one was brought offline a week ago, and repairs would take at least another 48 hours. By then the eastern dome would be out of air completely. Fear stirred inside Lira, but something deep inside her stirred. A courage to overcome certain doom.
+
 "I’ll go," she volunteered, grabbing her oxygen pack.
 
 "You can’t!" Kain grabbed her arm. "The storm’s too strong—you’ll get stranded!"
