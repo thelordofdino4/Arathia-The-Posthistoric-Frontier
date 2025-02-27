@@ -44,7 +44,7 @@ A Precarious Future
 
 As the 23rd century unfolded, humanity stood at a precipice. The Earth groaned under the strain of its caretakers, and the once-bright future seemed more distant than ever. But even as the planet withered, the seeds of human tenacity refused to be extinguished.
 
-In a quiet laboratory in Zurich, a team of geneticists worked tirelessly on a last-ditch effort to preserve the planet’s biodiversity. Dr. Amara Thren, their leader, stared at the glowing vials of preserved DNA samples.
+In a quiet laboratory in Zurich, a team of geneticists worked tirelessly on a last-ditch effort to preserve the planet’s biodiversity. Dr. Trent Burke, their leader, stared at the glowing vials of preserved DNA samples.
 
 “This might be all that’s left of Earth one day,” she murmured. “But if we can preserve this, maybe… just maybe, we’ll have a second chance.”
 
