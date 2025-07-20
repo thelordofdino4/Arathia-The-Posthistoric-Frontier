@@ -1,1 +1,35 @@
-ECHO is on.
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*~
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
+
+# Build directories
+build/
+_build/
+dist/
+site/
+public/
+
+# Sphinx documentation build
+/docs/_build/
+/docs/build/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Node dependencies
+node_modules/
+
+# IDE configuration
+.idea/
+.vscode/
