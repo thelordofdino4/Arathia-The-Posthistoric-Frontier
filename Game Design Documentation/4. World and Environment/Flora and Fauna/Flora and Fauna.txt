@@ -1,0 +1,14 @@
+Flora and Fauna Documentation
+=============================
+
+This folder contains descriptions of various creatures found in Arathia's forests. See the individual files in the **Fauna** directory for details about each species.
+
+Current species:
+- Bloodmaw
+- Corroder
+- Corvath
+- Flashhorn and Flashicorn
+- Photosypher
+- Rubus
+- Scavenger Beetle
+- Velocifawn
