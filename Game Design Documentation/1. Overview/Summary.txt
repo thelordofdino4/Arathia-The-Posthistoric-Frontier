@@ -1,8 +1,8 @@
 Prologue
-Millions of years ago, humans from Earth sought to escape their dying planet by seeding Arathia, a distant world they believed to be uninhabited. However, Arathia was already home to diverse and evolving life forms. Due to a cosmic anomaly and time dilation, humans only returned to Arathia after what seemed like a million years to them but was actually 15 million years on Arathia.
+Millions of years ago, humans from Earth sought to escape their dying planet by seeding Arathia, a distant world they believed to be uninhabited. However, Arathia was already home to diverse and evolving life forms. Due to a cosmic anomaly and time dilation, humans only returned to Arathia after what seemed like a thousand years to them but was actually 15 million years on Arathia.
 
 Act 1: Awakening
-Awakening: The protagonist begins their journey by stepping out of their home, 70 years after the initial crash landing. They step outside, introducing the player to the new world and the settlement where the protagonist lives.
+Awakening: The protagonist begins their journey by stepping out of their home, 50 years after the initial crash landing. They step outside, introducing the player to the new world and the settlement where the protagonist lives.
 Settlement Introduction: The player explores the settlement, meeting other humans and learning about the daily life and challenges faced by the community.
 Initial Quests: The protagonist takes on basic tasks to help the settlement, such as gathering resources and hunting small creatures, allowing the player to familiarize themselves with the game mechanics.
 Discovery: As the protagonist becomes more educated about the local wildlife, monsters, and people, they learn new things about the planet's ecosystem and their part in it. This includes discoveries about the basic and advanced biology of Earth's invasive life and the native life on the planet.
