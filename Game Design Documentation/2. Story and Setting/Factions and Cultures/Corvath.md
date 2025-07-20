@@ -14,7 +14,7 @@
 
 - **Thieves and Hoarders:** The Skyshadow Clan has a deep-rooted compulsion to steal, collecting valuable items and technology from unwary hunters and other species. Their nests are often lined with these stolen spoils.
 - **Oral Historians:** Despite their reputation as thieves, the Skyshadow Clan possesses a rich and detailed oral history. Elders pass down stories and knowledge from generation to generation, preserving their culture and heritage.
-- **Oldest Saying:** Their oldest saying, "humans are scum," has been repeated by their ancestors for over 65 million years. However, the original meaning has been lost over time, and it is now used more as a greeting than a statement of hatred.
+- **Oldest Saying:** Their oldest saying, "humans are scum," has been repeated by their ancestors for over **15 million years**. However, the original meaning has been lost over time, and it is now used more as a greeting than a statement of hatred.
 
 ### Habitat
 
