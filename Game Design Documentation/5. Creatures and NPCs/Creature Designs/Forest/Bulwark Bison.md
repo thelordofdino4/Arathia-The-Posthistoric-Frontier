@@ -62,9 +62,9 @@ The Bulwark Bison shares its habitat with the Frondgrazer (*Verdifera triplex*),
 
 ### Taxonomic Classification
 
-- **Domain:** Lithocellatae
-  - **Diagnostic Feature:** Organisms with mineralized cell walls and Adaptive Nucleic Acid (ANA).
-  - **Additional Feature:** Unique genetic structure with three helices and six nucleotides.
+- **Domain:** Eukarya
+  - **Diagnostic Feature:** Earth-descended organisms lacking Arathia's mineralized cell walls.
+  - **Additional Feature:** Standard double-helical DNA typical of Terran life.
 
 - **Kingdom:** Animalia
   - **Diagnostic Feature:** Multicellular, eukaryotic organisms with specialized tissues.
