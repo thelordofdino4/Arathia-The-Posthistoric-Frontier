@@ -79,3 +79,7 @@ Arathia, a vast and diverse continent with forests, deserts, tundras, and volcan
 - **Sustainability**: Ensuring resource and habitat sustainability drives technological and societal developments.
 - **Unity and Cooperation**: Promoting unity and cooperation among diverse species is essential for long-term survival and prosperity.
 - **Becoming the Best Hunter**: Players aim to become the most skilled and renowned hunter on Arathia, mastering various weapons, strategies, and monsters.
+
+## Character References
+
+- [Cairn](Game%20Design%20Documentation/2.%20Story%20and%20Setting/Characters/Before%20Arathia/Cairn.md): Detailed story-writing reference, current character direction, working opening sequence, sources, and unresolved continuity questions. Consolidated October 4, 2026.
