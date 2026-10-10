@@ -68,6 +68,8 @@ Omnivorous, feeding on seeds, fruits, insects, and small invertebrates. Their to
 ## Evolutionary History  
 The Quarriel evolved from Old World quail (*Family: Phasianidae*) introduced to Arathia. Over millions of years, selective pressures for intelligence, cooperation, and survival in dense forest environments drove the development of their manipulative wings and linguistic abilities. These adaptations placed them on a distinct evolutionary trajectory, enabling their emergence as tool-using cooperators and communicators.  
 
+See [Quarriel Wing-Manus Anatomy and Evolutionary Model](Quarriel%20Wing-Manus%20Anatomy%20and%20Evolutionary%20Model.md) for the consolidated anatomy decisions, working selection model, continuity conflicts, and open design questions behind this adaptation.
+
 ---
 
 ## Taxonomic Summary  
