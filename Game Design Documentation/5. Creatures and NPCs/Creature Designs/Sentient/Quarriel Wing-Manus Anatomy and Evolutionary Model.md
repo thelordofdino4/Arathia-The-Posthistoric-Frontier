@@ -17,7 +17,8 @@ This document consolidates the design decisions and evolutionary reasoning behin
 
 ## 1. Quick reference
 
-- **Established — ancestry and face:** Quarriel descend from introduced Old World quail and must remain recognizably quail-faced. Their head has a comparatively long, conical beak and eyes set toward the back of the skull, producing broad surrounding vision with limited binocular overlap. This is the intended fictional design, not a general claim about real quail anatomy.
+- **Repository baseline — ancestry:** Quarriel descend from introduced Old World quail.
+- **Established — face:** Quarriel must remain recognizably quail-faced. Their head has a comparatively long, conical beak and eyes set toward the back of the skull, producing broad surrounding vision with limited binocular overlap. This is the intended fictional design, not a general claim about real quail anatomy.
 - **Established — digit count:** Each wing-manus has exactly **two clawed, feathered manipulative digits**. The design is compared to the clawed wings of hoatzin chicks, but it is a derived adult structure rather than a literal copy.
 - **Established — hand shape:** A rotational wrist, a mobile alula, and broadened flexible metacarpals and phalanges create an “oven mitt” manipulator rather than a humanlike hand. “Extra digit” in the source discussion does not mean a third finger.
 - **Established — flight surface:** Functional flight feathers remain attached along the underside of the manus. Their exact arrangement and behavior during grasping are unresolved.
@@ -40,7 +41,7 @@ Each wing-manus has two manipulative digits:
 1. A mobile alular digit that can rotate and bend.
 2. A second clawed manipulative digit whose exact skeletal homology remains open.
 
-The metacarpals and phalanges are broadened enough to produce a padded or mitten-like gripping surface. The result should not be drawn as a miniature human hand with exposed fingers. Both digits remain feathered and end in claws. Wrist rotation expands the useful working angles without requiring the legs to become grasping forelimbs.
+The metacarpals and phalanges are broadened and flexible enough to produce a mitten-like gripping surface. The result should not be drawn as a miniature human hand with exposed fingers. Both digits remain feathered and end in claws. Wrist rotation expands the useful working angles without requiring the legs to become grasping forelimbs.
 
 The older repository language of “a thumb and a finger” is a useful shorthand for opposition, but not a literal statement that the bones, proportions, or range of motion are humanlike.
 
@@ -102,7 +103,7 @@ The following is a plausible working sequence, not an established fossil history
 1. **Behavioral bracing:** Ground birds use a folded wing or wrist to pin food, steady nest material, brace against vegetation, or hold an object against the substrate while the beak works.
 2. **Hooking:** Variation in alula mobility or a retained claw improves the ability to catch, pull, or prevent an object from slipping.
 3. **Greater wrist mobility:** Increased rotation lets the same distal wing surface press, hook, and reposition objects from more useful angles.
-4. **Opposed mitten-like grasp:** Broadened flexible metacarpals and phalanges form a gripping pad while the mobile alular digit supplies opposition. Both digits remain clawed and feathered.
+4. **Opposed mitten-like grasp:** Broadened flexible metacarpals and phalanges form a mitten-like gripping surface while the mobile alular digit supplies opposition. Both digits remain clawed and feathered.
 5. **Expanded environmental handling:** Individuals move, pull, carry, gather, peel, and arrange material more effectively without converting the feet into dedicated hands.
 6. **Escape-related environmental modification:** Manipulation supports the maintenance of covered routes, cleared passages, shelters, concealment, or obstacles. Running remains important; altering the environment can improve rather than replace escape.
 7. **Behavioral feedback:** Social learning, provisioning, cooperation, tool traditions, and niche construction may increase the value of dexterity and learning once manipulation already exists.
@@ -139,12 +140,11 @@ The repository baseline gives Quarriel short, rapid, panic-driven flight rather 
 
 The discussion proposed, but did not establish, several ways manipulation and flight might coexist:
 
-- tendons or ligaments could stabilize or lock the wrist and digits during the power stroke;
-- primaries could fold or align along a caudal or trailing edge while the hand closes;
+- tendons or ligaments could stabilize or lock the wrist in a fully extended flight posture;
 - flight could favor explosive launch and control over endurance;
 - the manipulator could trade some aerodynamic efficiency for terrestrial utility.
 
-These are engineering prompts, not canon anatomy. Before selecting one, the design needs a clear target for flight duration, launch behavior, maneuverability, carrying capacity, and the resting arrangement of the two digits.
+These are engineering prompts, not canon anatomy. The exact arrangement and behavior of the primary feathers during flight and manipulation remain **Open**. Before selecting a mechanism, the design needs a clear target for flight duration, launch behavior, maneuverability, carrying capacity, and the resting arrangement of the two digits.
 
 ## 8. Independent Corvath convergence
 
